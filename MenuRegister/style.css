@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(to bottom right, pink, blue);
+    background-clip: padding-box;
+}
+
+#main{
+    height: 125px;
+}
