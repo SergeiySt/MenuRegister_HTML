@@ -1,6 +1,6 @@
 body{
     background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(188,123,223,1) 0%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(188,123,223,1) 0%, rgba(0,212,255,1) 100%);
 }
 
 #main{
@@ -8,9 +8,19 @@ body{
 }
 
 
+#registr-heading{
+    margin-top: 40px;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+    position: absolute;
+    top: 17%;
+    left: 41%
+}
 
-
-#registrationForm{
+#registrForm{
     width: 600px;
     height: 700px;
     margin: 0 auto;
